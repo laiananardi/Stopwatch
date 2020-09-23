@@ -1,3 +1,3 @@
 # Stopwatch
 
-(https://github.com/laiananardi/Stopwatch/blob/master/source/stop.mp4?raw=true)
+<a href="https://stopwatchjs.netlify.app/"> See project </a>
